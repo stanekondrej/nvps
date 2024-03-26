@@ -5,7 +5,7 @@
 quite simple: build it, and write any plugins you want to search for as cmdline arguments  
 
 ## installation  
-- install the rust toolchain through [rustup](https://rustup.sh)
+- install the rust toolchain through [rustup](https://rustup.rs)
 - `cargo install nvps`
 
 ## credit  
