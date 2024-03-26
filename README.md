@@ -1,4 +1,4 @@
-# nvps - a script to search for nvim plugins  
+# nvps - a simple command line tool to search for nvim plugins  
 **NeoVim Plugin Search** - nothing but a thin wrapper around the amazing [nvim.sh](https://nvim.sh)  
 
 ## usage  
